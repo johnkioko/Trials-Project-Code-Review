@@ -2,7 +2,7 @@
 
 # My Microverse Trials Project
 
-> Javascript Documentation project.
+> Microverse Trials Javascript Documentation project.
 
 
 ## Built With
