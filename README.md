@@ -38,8 +38,6 @@ Any browser
 - Twitter: [@twitterhandle](https://twitter.com/@john_the_web_dev)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/johnkioko)
 
-👤 ** Teke Mitau**
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
