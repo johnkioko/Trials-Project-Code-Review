@@ -7,7 +7,7 @@ html {
 body {
   min-width: 290px;
   color: #4d4e53;
-  background-color: #ffffff;
+  background-color: #fff;
   font-family: 'Open Sans', Arial, sans-serif;
   line-height: 1.5;
   font-size: 18px;
@@ -23,8 +23,8 @@ body {
 #navbar {
   position: fixed;
   min-width: 290px;
-  top: 0px;
-  left: 0px;
+  top: 0;
+  left: 0;
   width: 300px;
   height: 100%;
   border-right: solid;
@@ -44,6 +44,7 @@ body {
 header {
   color: black;
   margin: 10px;
+
   /* text-align: center; */
   font-size: 1.8em;
   font-weight: thin;
